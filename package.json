@@ -22,7 +22,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "test": "react-scripts test",
+    "test": "react-scripts test"
   },
   "eslintConfig": {
     "extends": "react-app"

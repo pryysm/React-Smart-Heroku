@@ -1,0 +1,122 @@
+[
+    {
+        "imgurl": "./img/avatar/1.png",
+        "name": "resignedangel",
+        "age": 35,
+        "score": 513.6,
+        "level":10,
+        "goals":379,
+        "achived":107,
+        "gender": "female"
+    },
+    {
+        "imgurl": "./img/avatar/2.png",
+        "name": "Rinty",
+        "age": 0,
+        "score": 326.3,
+        "level": 9,
+        "goals": 156,
+        "achived": 52,
+        "gender": "female"
+    },
+    {
+        "imgurl": "./img/avatar/3.png",
+        "name": "vikichocolate",
+        "age": 0,
+        "score": 245.5,
+        "level": 9,
+        "goals": 159,
+        "achived": 114,
+        "gender": "male"
+    },
+    {
+        "imgurl": "./img/avatar/4.png",
+        "name": "Langolbier",
+        "age": 43,
+        "score": 243.2,
+        "level": 10,
+        "goals": 168,
+        "achived": 114,
+        "gender": "male"
+    },
+    {
+        "imgurl": "./img/avatar/5.png",
+        "name": "Anton Piotrowski",
+        "age": 26,
+        "score": 218.1,
+        "level": 10,
+        "goals": 177,
+        "achived": 113,
+        "gender": "male"
+    },
+    {
+        "imgurl": "./img/avatar/6.png",
+        "name": "Kceniya",
+        "age": 28,
+        "score": 162.4,
+        "level": 9,
+        "goals": 216,
+        "achived": 200,
+        "gender": "female"
+    },
+    {
+        "imgurl": "./img/avatar/1.png",
+        "name": "resignedangel",
+        "age": 35,
+        "score": 513.6,
+        "level": 10,
+        "goals": 379,
+        "achived": 107,
+        "gender": "female"
+    },
+    {
+        "imgurl": "./img/avatar/2.png",
+        "name": "Rinty",
+        "age": 0,
+        "score": 326.3,
+        "level": 9,
+        "goals": 156,
+        "achived": 52,
+        "gender": "female"
+    },
+    {
+        "imgurl": "./img/avatar/3.png",
+        "name": "vikichocolate",
+        "age": 0,
+        "score": 245.5,
+        "level": 9,
+        "goals": 159,
+        "achived": 114,
+        "gender": "male"
+    },
+    {
+        "imgurl": "./img/avatar/4.png",
+        "name": "Langolbier",
+        "age": 43,
+        "score": 243.2,
+        "level": 10,
+        "goals": 168,
+        "achived": 114,
+        "gender": "male"
+    },
+    {
+        "imgurl": "./img/avatar/5.png",
+        "name": "Anton Piotrowski",
+        "age": 26,
+        "score": 218.1,
+        "level": 10,
+        "goals": 177,
+        "achived": 113,
+        "gender": "male"
+    },
+    {
+        "imgurl": "./img/avatar/6.png",
+        "name": "Kceniya",
+        "age": 28,
+        "score": 162.4,
+        "level": 9,
+        "goals": 216,
+        "achived": 200,
+        "gender": "female"
+    }
+]

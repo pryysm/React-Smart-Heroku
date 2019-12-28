@@ -1,0 +1,293 @@
+
+.users_container{
+    padding-top: 20px;
+}
+.users{
+    width: 100%;
+}
+.users_list{
+    background-color: white;
+    width: calc(100% - 284px) ;
+    padding: 20px 40px;
+    position: relative;
+    margin: 0 0 20px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .15);
+}
+.users_list .list-header{
+    display: -ms-flexbox;
+    display: flex ;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-bottom: 30px !important;
+    padding-top: 10px !important;
+}
+.users_list .title{
+    font-size: 14px;
+    font-weight: 700;
+    margin-right: 20px;
+    text-transform: uppercase;
+    min-width: 75px;
+}
+._103qnYO-BQ {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.users_filter{
+    width: 260px;
+    box-sizing: border-box;
+}
+.filters{
+    padding: 20px 30px;
+    position: relative;;
+    margin: 0 0 20px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.15);
+    background: #fff;
+}
+.form__row label{
+    width: 100%;
+    font-size: 13px;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 5px;
+}
+.form__row input{
+    font: inherit;
+    font-size: 13px;
+    font-weight: 500;
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 31px;
+    padding: 7px 12px 6px;
+    outline: none;
+    background-color: #f0f0f0;
+    border: 1px solid transparent;
+    border-top: 1px solid rgba(0,0,0, .1);
+    border-radius: 6px;
+}
+.form__rows--half .form__row{
+    display: inline-block;
+    width: 48%;
+    margin-right: -4px;
+    margin-left: -4%;
+    vertical-align: top;
+}
+.radios{
+    margin-bottom: 6px;
+}
+.radio--stroke{
+    top: 3px;
+    width: 16px;
+    height: 16px;
+    background: 0 0 ;
+    border: 2px solid #999;
+    box-sizing: border-box;
+}
+.img-fluid{
+    width: 60px;
+    height: 60px !important;
+}
+.user_item{
+    padding: 10px 20px;
+    background-color: #f0f0f2;
+    width: 100%;
+}
+.btn-indigo{
+    width: #2ab8d5 !important;
+}
+.user-prop{
+    margin-left: 18px;
+}
+.user-prop span{
+    font-size: 18px;
+    display: inline-block;
+    color: black;
+    font-weight: 500;
+}
+.user-prop span:hover{
+    color: #2ab8d5;
+}
+.user-prop h3{
+    height: 23px;
+    margin: 0 !important;
+}
+.user-prop p{
+    font-size: 12px;
+    margin: 0 !important;
+    text-align: left !important;
+}
+.change_friendstatus{
+    font-size: 15px;
+    text-decoration: underline !important;
+}
+.personal-rate {
+    display: flex;
+    align-items: center;
+    vertical-align: baseline;
+}
+.personal-rate p{
+    font-size: 22px ;
+    font-weight: 700 ;
+    margin-bottom: 0 !important;
+}
+.personal-level{
+    font-size: 10px !important;
+    font-weight: 400 !important;
+}
+.rc-progress-circle{
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+}
+.percent-rate {
+    font-size: 10px !important;
+    margin-left: 10px;
+    width: 39px;
+}
+.s--pro_small {
+    width: 35px;
+    height: 16px;
+    background-position: -157px -103px;
+}
+.s {
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-image: url(../img/sprite3.png);
+    display: inline-block;
+}
+.row-id{
+    font-size: 14px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+.input-group-prepend{
+    background-color: #f1f0f3;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .1) inset;
+    border-radius: 4px;
+    display: inline-block;
+    vertical-align: middle;
+    height: 24px;
+}
+.input-group-prepend button{
+    height: 24px;
+    font-size: 10px;
+    font-weight: 600;
+    border: 0 !important;
+    padding: 5px 7px;
+    margin-top: auto;
+}
+.input-group-prepend button:hover,
+.input-group-prepend .btn.active {
+    background-color: #ffce2b !important;
+}
+.users_list .ml-auto a {
+    font-size: 14px !important;
+    font-weight: 700;
+    color: #2ab8d5; 
+    text-decoration: underline;
+}
+
+.users_list .invite p{
+    font-size: 9pt !important;
+    margin-top: 3px;
+    font-weight: 500;
+    margin-bottom: 0 !important;
+}
+.form-inline input {
+    min-height: 6px;
+    font-size: 13px;
+    width: 16px !important;
+}
+.form__rows--half{
+    display: inline-block;
+    width: 48%;
+    margin-right: -4px;
+    margin-left: 0;
+    vertical-align: top;
+    padding: 0 !important;
+}
+.form__row {
+    position: relative;
+    margin-bottom: 30px;
+}
+.form-inline label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+}
+.form-check{
+    margin: 0;
+}
+.filter-label{
+    font-size: 16px !important;
+    font-weight: 700 !important;
+}
+.filter__labels{
+    margin: 0 !important;
+}
+.form__inp {
+    font: inherit;
+    font-size: 13px;
+    font-weight: 500;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 31px;
+    padding: 7px 12px 6px;
+    outline: none;
+    background-color: #f0f0f0;
+    border: 1px solid transparent;
+    border-top: 1px solid rgba(0, 0, 0, .1);
+    border-radius: 6px;
+    margin-bottom: 6px;
+}
+.sub-total{
+    padding: 20px 30px;
+    text-align: center;
+    color: #fff;
+    background-color: #2ab8d5;
+    position: relative;
+    margin: 0 0 20px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .15);
+}
+.sub-total .Items-total{
+    text-align: center;
+    color: #fff;
+    margin-bottom: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.sub-total .Items-total .totall{
+    font-family: museo_sans_cyrl900,PT Sans,Helvetica,Arial,sans-serif;
+    font-size: 36px;
+    margin: 0 !important;
+    height: 36px !important;
+    font-weight: 700;
+}
+.sub-total .Items-total .itemm{
+    font-size: 14px;
+    margin-top: -5px;
+    margin: 0 !important;
+    height: 14px !important;
+    font-weight: 500;
+}
+.r-segmented-control{
+    border-bottom: 0 !important;
+    width: 95px;
+}
+.r-segmented-control>ul>li.select.selected {
+    background: #ffce2b !important;
+    color: #000000 !important;
+}
+
+.r-segmented-control>ul>li.select{
+    background: #f0f0f2 !important;
+    color: #000000 !important;
+    border: 0 !important;
+    padding: 7px;
+}
